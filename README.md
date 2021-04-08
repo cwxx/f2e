@@ -9,6 +9,7 @@
 ## 2021
 
 **四月**
+- [04.09 关于 JavaScript 执行顺序判断问题](./docs/2021/04/09.md)
 - [04.08 关于 parseInt的使用问题](./docs/2021/04/08.md)
 - [04.07 关于 valueOf和toString 的操作](./docs/2021/04/07.md)
 - [04.06 关于 JavaScript 数据类型的严格判断](./docs/2021/04/06.md)
