@@ -9,6 +9,7 @@
 ## 2021
 
 **四月**
+- [04.28 如何用replace实现驼峰字符串和下划线字符串互转](./docs/2021/04/28.md)
 - [04.27 关于 Object.getOwnPropertyNames的操作问题](./docs/2021/04/27.md)
 - [04.26 关于 JavaScript 的位运算](./docs/2021/04/26.md)
 - [04.20 关于 eval 使用问题](./docs/2021/04/20.md)
